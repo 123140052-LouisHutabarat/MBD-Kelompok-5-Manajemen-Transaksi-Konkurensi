@@ -2,7 +2,7 @@
 
 > **Mata Kuliah:** IF25-40405 — Manajemen Basis Data | Semester Genap 2025/2026  
 > **Kelompok 5** | Institut Teknologi Sumatera (ITERA)  
-> 📁 **Google Drive Proyek:** [Akses Laporan, Presentasi & Video Demo](https://link-google-drive-anda-di-sini)
+> 📁 **Google Drive Proyek:** [Akses Laporan dan Logbook](https://drive.google.com/drive/folders/11dKM_GUJaz3AHds5x1KTm9rXCji7M7jS?usp=drive_link)
 
 ---
 
