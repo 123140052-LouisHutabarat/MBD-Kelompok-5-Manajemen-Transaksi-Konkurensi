@@ -207,13 +207,6 @@ Transaksi di-commit ke database. PostgreSQL kemudian dihentikan secara paksa (`k
 
 ---
 
-## 🔗 Tautan Google Drive
-
-Seluruh dokumentasi proyek, laporan komprehensif, slide presentasi, serta video demo aplikasi dapat diakses melalui tautan di bawah ini:
-👉 [**Google Drive Kelompok 5 — Manajemen Transaksi Konkurensi**](https://link-google-drive-anda-di-sini)
-
----
-
 ## 📚 Referensi Utama
 
 - Freitag & Kemper. *Memory-Optimized MVCC for Disk-Based Database Systems.* TU München, 2025.
