@@ -4,7 +4,7 @@
 -- Kelompok 5 - Manajemen Basis Data ITERA 2026
 -- ============================================================
 -- Cara menjalankan di WSL2:
---   psql -U postgres -f setup_dummy_data.sql
+--   psql -U postgres -f setup_dummy_data_Kelompok5.sql
 -- ============================================================
 
 

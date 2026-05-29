@@ -75,7 +75,7 @@ UPDATE inventaris_stok SET jumlah = 15000
 WHERE id_wilayah = 'JB' AND id_komoditas = 'BERAS';
 
 SELECT 'Stok JB sudah direset ke 15000. Siap untuk uji isolation.' AS status;
-SELECT 'Buka dua terminal psql dan ikuti panduan uji_isolation_terminal1.sql dan uji_isolation_terminal2.sql' AS petunjuk;
+SELECT 'Buka dua terminal psql dan ikuti panduan uji_isolation_terminal1_Kelompok5.sql dan uji_isolation_terminal2_Kelompok5.sql' AS petunjuk;
 
 SELECT '===== UJI 4: DURABILITY =====' AS info;
 
@@ -97,4 +97,4 @@ WHERE id_transaksi = 'TRX-TEST-DURABILITY';
 
 SELECT 'SEKARANG: Buka terminal WSL2 baru, jalankan:' AS langkah;
 SELECT '  sudo service postgresql stop && sudo service postgresql start' AS perintah;
-SELECT 'Setelah restart, jalankan file: uji_durability_verifikasi.sql' AS lanjutan;
+SELECT 'Setelah restart, jalankan file: uji_durability_verifikasi_Kelompok5.sql' AS lanjutan;
